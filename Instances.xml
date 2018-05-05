@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MFGRData5>
+
+	<MFGR>
+		<MFGR_ID>1</MFGR_ID>
+		<MFGR_Name>Samsung</MFGR_Name>
+		<MFGR_Country>Korea</MFGR_Country>
+		<MFGR_State>Texas</MFGR_State>
+		<MFGR_City>Austin</MFGR_City>
+		<MFGR_StreetNumb>12100</MFGR_StreetNumb>
+		<MFGR_StreetName>Samsung Boulevard</MFGR_StreetName>
+		<MFGR_PostalCode>78754</MFGR_PostalCode>
+		<MFGR_PhoneNumb></MFGR_PhoneNumb>
+		<MFGR_EMail></MFGR_EMail>
+	</MFGR>
+
+	<MFGR>
+		<MFGR_ID>2</MFGR_ID>
+		<MFGR_Name>Asus</MFGR_Name>
+		<MFGR_Country>US</MFGR_Country>
+		<MFGR_State>California</MFGR_State>
+		<MFGR_City>Fermont</MFGR_City>
+		<MFGR_StreetNumb>800</MFGR_StreetNumb>
+		<MFGR_StreetName>Corporate Way</MFGR_StreetName>
+		<MFGR_PostalCode>94539</MFGR_PostalCode>
+		<MFGR_PhoneNumb>5107393777</MFGR_PhoneNumb>
+		<MFGR_EMail></MFGR_EMail>
+	</MFGR>
+
+	<MFGR>
+		<MFGR_ID>3</MFGR_ID>
+		<MFGR_Name>Acer</MFGR_Name>
+		<MFGR_Country>USA</MFGR_Country>
+		<MFGR_State>California</MFGR_State>
+		<MFGR_City>San Jose</MFGR_City>
+		<MFGR_StreetNumb>333</MFGR_StreetNumb>
+		<MFGR_StreetName>West San Carlos Street</MFGR_StreetName>
+		<MFGR_PostalCode>95110</MFGR_PostalCode>
+		<MFGR_PhoneNumb>4085337700</MFGR_PhoneNumb>
+		<MFGR_EMail></MFGR_EMail>
+	</MFGR>
+
+	<MFGR>
+		<MFGR_ID>4</MFGR_ID>
+		<MFGR_Name>MSI</MFGR_Name>
+		<MFGR_Country>USA</MFGR_Country>
+		<MFGR_State>California</MFGR_State>
+		<MFGR_City>City of Industry</MFGR_City>
+		<MFGR_StreetNumb>901</MFGR_StreetNumb>
+		<MFGR_StreetName>Canada Court</MFGR_StreetName>
+		<MFGR_PostalCode>91748</MFGR_PostalCode>
+		<MFGR_PhoneNumb>16269130828</MFGR_PhoneNumb>
+		<MFGR_EMail>affairs@msi.com</MFGR_EMail>
+	</MFGR>
+
+	<MFGR>
+		<MFGR_ID>5</MFGR_ID>
+		<MFGR_Name>Dell</MFGR_Name>
+		<MFGR_Country>USA</MFGR_Country>
+		<MFGR_State>Texas</MFGR_State>
+		<MFGR_City>Round Rock</MFGR_City>
+		<MFGR_StreetNumb>1</MFGR_StreetNumb>
+		<MFGR_StreetName>Dell Way</MFGR_StreetName>
+		<MFGR_PostalCode>78682</MFGR_PostalCode>
+		<MFGR_PhoneNumb></MFGR_PhoneNumb>
+		<MFGR_EMail></MFGR_EMail>
+	</MFGR>
+
+	<MFGR>
+		<MFGR_ID>6</MFGR_ID>
+		<MFGR_Name>Lenovo</MFGR_Name>
+		<MFGR_Country>Canada</MFGR_Country>
+		<MFGR_State>Ontario</MFGR_State>
+		<MFGR_City>Markham</MFGR_City>
+		<MFGR_StreetNumb>55</MFGR_StreetNumb>
+		<MFGR_StreetName>Idema Road</MFGR_StreetName>
+		<MFGR_PostalCode>L3R1B1</MFGR_PostalCode>
+		<MFGR_PhoneNumb>8552536686</MFGR_PhoneNumb>
+		<MFGR_EMail></MFGR_EMail>
+	</MFGR>
+
+	<MFGR>
+		<MFGR_ID>7</MFGR_ID>
+		<MFGR_Name>Benq</MFGR_Name>
+		<MFGR_Country>USA</MFGR_Country>
+		<MFGR_State>California</MFGR_State>
+		<MFGR_City>Costa Mesa</MFGR_City>
+		<MFGR_StreetNumb>3200</MFGR_StreetNumb>
+		<MFGR_StreetName>Park Center Drive</MFGR_StreetName>
+		<MFGR_PostalCode>92626</MFGR_PostalCode>
+		<MFGR_PhoneNumb>17145570200</MFGR_PhoneNumb>
+		<MFGR_EMail></MFGR_EMail>
+	</MFGR>
+
+	<MFGR>
+		<MFGR_ID>8</MFGR_ID>
+		<MFGR_Name>HP</MFGR_Name>
+		<MFGR_Country>USA</MFGR_Country>
+		<MFGR_State>California</MFGR_State>
+		<MFGR_City>Palo Alto</MFGR_City>
+		<MFGR_StreetNumb>3000</MFGR_StreetNumb>
+		<MFGR_StreetName>Hanover Street</MFGR_StreetName>
+		<MFGR_PostalCode>94304-1185</MFGR_PostalCode>
+		<MFGR_PhoneNumb>6508575518</MFGR_PhoneNumb>
+		<MFGR_EMail></MFGR_EMail>
+	</MFGR>
+
+	<MFGR>
+		<MFGR_ID>9</MFGR_ID>
+		<MFGR_Name>LG</MFGR_Name>
+		<MFGR_Country>Canada</MFGR_Country>
+		<MFGR_State>Ontario</MFGR_State>
+		<MFGR_City>North York</MFGR_City>
+		<MFGR_StreetNumb>20</MFGR_StreetNumb>
+		<MFGR_StreetName>Norelco Drive</MFGR_StreetName>
+		<MFGR_PostalCode>M9L2X6</MFGR_PostalCode>
+		<MFGR_PhoneNumb>6472532510</MFGR_PhoneNumb>
+		<MFGR_EMail></MFGR_EMail>
+	</MFGR>
+
+	<MFGR>
+		<MFGR_ID>10</MFGR_ID>
+		<MFGR_Name>Gigabyte</MFGR_Name>
+		<MFGR_Country>Taiwan</MFGR_Country>
+		<MFGR_State>Xindian Dist</MFGR_State>
+		<MFGR_City>New Taipei City</MFGR_City>
+		<MFGR_StreetNumb>6</MFGR_StreetNumb>
+		<MFGR_StreetName>Baoqiang Road</MFGR_StreetName>
+		<MFGR_PostalCode>231</MFGR_PostalCode>
+		<MFGR_PhoneNumb>886289124000</MFGR_PhoneNumb>
+		<MFGR_EMail></MFGR_EMail>
+	</MFGR>
+
+	<LP>
+		<LP_ID>1</LP_ID>
+		<LP_Name>MSI GP62M</LP_Name>
+		<LP_Category>Gaming Laptop</LP_Category>
+		<LP_Price>1499</LP_Price>
+		<LP_Barcode>897381619002</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>Intel i7-7700HQ</LP_CPU>
+		<LP_GPU>NVIDIA GTX1050 2GB</LP_GPU>
+		<LP_ScreenSize>15.6</LP_ScreenSize>
+		<LP_RAM>16GB DDR4</LP_RAM>
+		<LP_OS>Windows 10</LP_OS>
+		<LP_Weight>4.8 lbs</LP_Weight>
+		<LP_Storage>128GB SSD + 1TB HDD</LP_Storage>
+		<MFGR_ID>4</MFGR_ID>	
+	</LP>
+
+	<LP>
+		<LP_ID>2</LP_ID>
+		<LP_Name>MSI GE63VR</LP_Name>
+		<LP_Category>Gaming Laptop</LP_Category>
+		<LP_Price>2099</LP_Price>
+		<LP_Barcode>897381619019</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>Intel i7-7700HQ</LP_CPU>
+		<LP_GPU>NVIDIA GTX1060 6GB</LP_GPU>
+		<LP_ScreenSize>15.6</LP_ScreenSize>
+		<LP_RAM>16GB DDR4</LP_RAM>
+		<LP_OS>Windows 10</LP_OS>
+		<LP_Weight>4.85 lbs</LP_Weight>
+		<LP_Storage>256GB SSD + 1TB HDD</LP_Storage>
+		<MFGR_ID>4</MFGR_ID>	
+	</LP>
+
+	<LP>
+		<LP_ID>3</LP_ID>
+		<LP_Name>Lenovo ideapad 310-15</LP_Name>
+		<LP_Category>Laptop</LP_Category>
+		<LP_Price>899</LP_Price>
+		<LP_Barcode>897381619026</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>Intel i7-7500U</LP_CPU>
+		<LP_GPU>Intel HD Graphics 620</LP_GPU>
+		<LP_ScreenSize>15.6</LP_ScreenSize>
+		<LP_RAM>8GB DDR4</LP_RAM>
+		<LP_OS>Windows 10</LP_OS>
+		<LP_Weight>4.85 lbs</LP_Weight>
+		<LP_Storage>1TB HDD</LP_Storage>
+		<MFGR_ID>6</MFGR_ID>	
+	</LP>
+
+	<LP>
+		<LP_ID>4</LP_ID>
+		<LP_Name>Lenovo Yoga Book ZA0V</LP_Name>
+		<LP_Category>2-in-1</LP_Category>
+		<LP_Price>649</LP_Price>
+		<LP_Barcode>897381619033</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>Intel Atom x5-Z8550</LP_CPU>
+		<LP_GPU></LP_GPU>
+		<LP_ScreenSize>10.1</LP_ScreenSize>
+		<LP_RAM>4GB DDR3</LP_RAM>
+		<LP_OS>Android 6</LP_OS>
+		<LP_Weight>1.52 lbs</LP_Weight>
+		<LP_Storage>64GB eMMC</LP_Storage>
+		<MFGR_ID>6</MFGR_ID>	
+	</LP>
+
+	<LP>
+		<LP_ID>5</LP_ID>
+		<LP_Name>Lenovo Legion Y520</LP_Name>
+		<LP_Category>Gaming Laptop</LP_Category>
+		<LP_Price>1399</LP_Price>
+		<LP_Barcode>897381619040</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>Intel i7-6700HQ</LP_CPU>
+		<LP_GPU>NVIDIA GTX1050ti 4GB</LP_GPU>
+		<LP_ScreenSize>15.6</LP_ScreenSize>
+		<LP_RAM>8GB DDR4</LP_RAM>
+		<LP_OS>Windows 10</LP_OS>
+		<LP_Weight>5.3 lbs</LP_Weight>
+		<LP_Storage>1TB HDD</LP_Storage>
+		<MFGR_ID>6</MFGR_ID>	
+	</LP>
+
+	<LP>
+		<LP_ID>6</LP_ID>
+		<LP_Name>HP OMEN 17-AN001CA</LP_Name>
+		<LP_Category>Gaming Laptop</LP_Category>
+		<LP_Price>1699</LP_Price>
+		<LP_Barcode>897381619057</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>Intel i7-7700HQ</LP_CPU>
+		<LP_GPU>NVIDIA GTX1050 2GB</LP_GPU>
+		<LP_ScreenSize>17.3</LP_ScreenSize>
+		<LP_RAM>12GB DDR4</LP_RAM>
+		<LP_OS>Windows 10</LP_OS>
+		<LP_Weight>8.24 lbs</LP_Weight>
+		<LP_Storage>256GB SSD + 1TB HDD</LP_Storage>
+		<MFGR_ID>8</MFGR_ID>	
+	</LP>
+
+	<LP>
+		<LP_ID>7</LP_ID>
+		<LP_Name>HP Chromebook 11 G5 X9</LP_Name>
+		<LP_Category>Laptop</LP_Category>
+		<LP_Price>299</LP_Price>
+		<LP_Barcode>897381619064</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>Intel Celeron N3050</LP_CPU>
+		<LP_GPU>Intel HD Graphics 400</LP_GPU>
+		<LP_ScreenSize>11.6</LP_ScreenSize>
+		<LP_RAM>4GB DDR3L</LP_RAM>
+		<LP_OS>Chrome OS</LP_OS>
+		<LP_Weight>2.4 lbs</LP_Weight>
+		<LP_Storage>16GB SSD</LP_Storage>
+		<MFGR_ID>8</MFGR_ID>	
+	</LP>
+
+	<LP>
+		<LP_ID>8</LP_ID>
+		<LP_Name>HP Elitebook Folio 1020 G1</LP_Name>
+		<LP_Category>Laptop</LP_Category>
+		<LP_Price>2019</LP_Price>
+		<LP_Barcode>897381619071</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>Intel M-5Y71</LP_CPU>
+		<LP_GPU>Intel HD Graphics 5300</LP_GPU>
+		<LP_ScreenSize>12.5</LP_ScreenSize>
+		<LP_RAM>8GB DDR3</LP_RAM>
+		<LP_OS>Windows 10</LP_OS>
+		<LP_Weight>2.65 lbs</LP_Weight>
+		<LP_Storage>256GB SSD</LP_Storage>
+		<MFGR_ID>8</MFGR_ID>	
+	</LP>
+
+	<LP>
+		<LP_ID>9</LP_ID>
+		<LP_Name>Dell XPS 15 9560</LP_Name>
+		<LP_Category>Laptop</LP_Category>
+		<LP_Price>2599</LP_Price>
+		<LP_Barcode>897381619088</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>Intel i5-7300HQ</LP_CPU>
+		<LP_GPU>NVIDIA GTX1050 4GB</LP_GPU>
+		<LP_ScreenSize>15.6</LP_ScreenSize>
+		<LP_RAM>8GB DDR4</LP_RAM>
+		<LP_OS>Windows 10</LP_OS>
+		<LP_Weight>2.04 lbs</LP_Weight>
+		<LP_Storage>256GB SSD</LP_Storage>
+		<MFGR_ID>5</MFGR_ID>	
+	</LP>
+
+	<LP>
+		<LP_ID>10</LP_ID>
+		<LP_Name>Acer Aspire E5-523-6336</LP_Name>
+		<LP_Category>Laptop</LP_Category>
+		<LP_Price>429</LP_Price>
+		<LP_Barcode>897381619095</LP_Barcode>
+		<LP_StockLevel></LP_StockLevel>
+		<LP_CPU>AMD A6-9210</LP_CPU>
+		<LP_GPU>AMD Radeon R4</LP_GPU>
+		<LP_ScreenSize>15.6</LP_ScreenSize>
+		<LP_RAM>4GB DDR4</LP_RAM>
+		<LP_OS>Windows 10</LP_OS>
+		<LP_Weight>2.33 lbs</LP_Weight>
+		<LP_Storage>1TB HDD</LP_Storage>
+		<MFGR_ID>3</MFGR_ID>	
+	</LP>
+
+	<DT>
+		<DT_ID>1</DT_ID>
+		<DT_Name>Acer X57</DT_Name>
+		<DT_Category>Gaming Desktop</DT_Category>
+		<DT_Price>2799</DT_Price>
+		<DT_Barcode>897381619101</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i7-8700L</DT_CPU>
+		<DT_GPU>NVIDIA GTX1080ti 8GB</DT_GPU>
+		<DT_MB>Asus Z370 Prime</DT_MB>
+		<DT_Case>Corsair Carbide 400C White</DT_Case>
+		<DT_PSU>EVGA 600W Gold</DT_PSU>
+		<DT_RAM>G.Skill 16GB DDR4</DT_RAM>
+		<DT_OS>Windows 10</DT_OS>
+		<DT_Storage>Samsung 256GB SSD</DT_Storage>
+		<MFGR_ID>3</MFGR_ID>	
+	</DT>
+
+	<DT>
+		<DT_ID>2</DT_ID>
+		<DT_Name>Acer X37</DT_Name>
+		<DT_Category>Gaming Desktop</DT_Category>
+		<DT_Price>1599</DT_Price>
+		<DT_Barcode>897381619118</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i5-8600L</DT_CPU>
+		<DT_GPU>NVIDIA GTX1060 3GB</DT_GPU>
+		<DT_MB>ASRock Z370-A</DT_MB>
+		<DT_Case>IN-WIN 301</DT_Case>
+		<DT_PSU>Corsair 500W Bronze</DT_PSU>
+		<DT_RAM>Corsair 16GB DDR4</DT_RAM>
+		<DT_OS>Windows 10</DT_OS>
+		<DT_Storage>Western Digital 256GB SSD</DT_Storage>
+		<MFGR_ID>3</MFGR_ID>	
+	</DT>
+
+	<DT>
+		<DT_ID>3</DT_ID>
+		<DT_Name>Asus ROG GR8</DT_Name>
+		<DT_Category>Gaming Desktop</DT_Category>
+		<DT_Price>1329</DT_Price>
+		<DT_Barcode>897381619125</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i5-7400</DT_CPU>
+		<DT_GPU>NVIDIA GTX1060 3GB</DT_GPU>
+		<DT_MB>Asus Z270 Prime</DT_MB>
+		<DT_Case></DT_Case>
+		<DT_PSU>Corsair 500W Bronze</DT_PSU>
+		<DT_RAM>G.Skill 16GB DDR4</DT_RAM>
+		<DT_OS>Windows 10</DT_OS>
+		<DT_Storage>Samsung 256GB SSD</DT_Storage>
+		<MFGR_ID>2</MFGR_ID>	
+	</DT>
+
+	<DT>
+		<DT_ID>4</DT_ID>
+		<DT_Name>Asus VivoMini VM65</DT_Name>
+		<DT_Category>Mini Desktop</DT_Category>
+		<DT_Price>699</DT_Price>
+		<DT_Barcode>897381619132</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i5-7200U</DT_CPU>
+		<DT_GPU>NVIDIA GTX930M</DT_GPU>
+		<DT_MB></DT_MB>
+		<DT_Case></DT_Case>
+		<DT_PSU>Corsair 430W Standard</DT_PSU>
+		<DT_RAM>T-Force 8GB DDR4</DT_RAM>
+		<DT_OS>Windows 10</DT_OS>
+		<DT_Storage>Western Digital 1TB HDD</DT_Storage>
+		<MFGR_ID>2</MFGR_ID>	
+	</DT>
+	<DT>
+		<DT_ID>5</DT_ID>
+		<DT_Name>MSI AEGIS TI3</DT_Name>
+		<DT_Category>Gaming Desktop</DT_Category>
+		<DT_Price>3199</DT_Price>
+		<DT_Barcode>897381619156</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i7-7700K</DT_CPU>
+		<DT_GPU>NVIDIA GTX 1080 8GB</DT_GPU>
+		<DT_MB>MSI Z270 Gaming 3</DT_MB>
+		<DT_Case>AEGIS TI3</DT_Case>
+		<DT_PSU>Corsair 430W Standard</DT_PSU>
+		<DT_RAM>T-Force 16GB DDR4</DT_RAM>
+		<DT_OS>Windows 10</DT_OS>
+		<DT_Storage>Western Digital 1TB HDD</DT_Storage>
+		<MFGR_ID>4</MFGR_ID>	
+	</DT>
+
+	<DT>
+		<DT_ID>6</DT_ID>
+		<DT_Name>Gigabyte BRIX</DT_Name>
+		<DT_Category>Barebone Desktop</DT_Category>
+		<DT_Price>599</DT_Price>
+		<DT_Barcode>897381619163</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i7-6500U</DT_CPU>
+		<DT_GPU>Intel HD Graphics 520</DT_GPU>
+		<DT_MB></DT_MB>
+		<DT_Case>BRIX</DT_Case>
+		<DT_PSU></DT_PSU>
+		<DT_RAM></DT_RAM>
+		<DT_OS>Windows 10</DT_OS>
+		<DT_Storage></DT_Storage>
+		<MFGR_ID>10</MFGR_ID>	
+	</DT>
+
+	<DT>
+		<DT_ID>7</DT_ID>
+		<DT_Name>HP ProDesk 400 G4</DT_Name>
+		<DT_Category>Desktop</DT_Category>
+		<DT_Price>719</DT_Price>
+		<DT_Barcode>897381619170</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i5-7500</DT_CPU>
+		<DT_GPU>Intel HD Graphics 630</DT_GPU>
+		<DT_MB>Gigabyte B150</DT_MB>
+		<DT_Case></DT_Case>
+		<DT_PSU>Corsair 430W Standard</DT_PSU>
+		<DT_RAM>8GB DDR4</DT_RAM>
+		<DT_OS>Windows 10</DT_OS>
+		<DT_Storage>HP 1TB HDD</DT_Storage>
+		<MFGR_ID>8</MFGR_ID>	
+	</DT>
+
+	<DT>
+		<DT_ID>8</DT_ID>
+		<DT_Name>Lenovo ThinkCentre M710</DT_Name>
+		<DT_Category>Desktop</DT_Category>
+		<DT_Price>869</DT_Price>
+		<DT_Barcode>897381619187</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i5-7500T</DT_CPU>
+		<DT_GPU>Intel HD Graphics 530</DT_GPU>
+		<DT_MB></DT_MB>
+		<DT_Case>ThinkCentre Standard</DT_Case>
+		<DT_PSU>EVGA 500W Bronze</DT_PSU>
+		<DT_RAM>4GB DDR4</DT_RAM>
+		<DT_OS>Windows 10</DT_OS>
+		<DT_Storage>500GB HDD</DT_Storage>
+		<MFGR_ID>6</MFGR_ID>	
+	</DT>
+
+	<DT>
+		<DT_ID>9</DT_ID>
+		<DT_Name>Lenovo ThinkStation P320</DT_Name>
+		<DT_Category>Workstation</DT_Category>
+		<DT_Price>1599</DT_Price>
+		<DT_Barcode>897381619194</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i7-7700</DT_CPU>
+		<DT_GPU>Intel HD Graphics 630</DT_GPU>
+		<DT_MB></DT_MB>
+		<DT_Case>ThinkCentre WS Standard</DT_Case>
+		<DT_PSU>EVGA 600W Bronze</DT_PSU>
+		<DT_RAM>8GB DDR4</DT_RAM>
+		<DT_OS>Fedora Linux</DT_OS>
+		<DT_Storage>256GB SSD</DT_Storage>
+		<MFGR_ID>6</MFGR_ID>	
+	</DT>
+
+	<DT>
+		<DT_ID>10</DT_ID>
+		<DT_Name>HP Compaq Pro 3600 MARS</DT_Name>
+		<DT_Category>Desktop</DT_Category>
+		<DT_Price>329329</DT_Price>
+		<DT_Barcode>897381619200</DT_Barcode>
+		<DT_StockLevel></DT_StockLevel>
+		<DT_CPU>Intel i5-3470</DT_CPU>
+		<DT_GPU></DT_GPU>
+		<DT_MB></DT_MB>
+		<DT_Case>Compaq</DT_Case>
+		<DT_PSU>EVGA 430W Standard</DT_PSU>
+		<DT_RAM>8GB DDR3</DT_RAM>
+		<DT_OS>Windows 8</DT_OS>
+		<DT_Storage>500GB HDD</DT_Storage>
+		<MFGR_ID>8</MFGR_ID>	
+	</DT>
+
+
+
+	<MT>
+		<MT_ID>1</MT_ID>
+		<MT_Name>LG 22M38D</MT_Name>
+		<MT_Category>Monitor</MT_Category>
+		<MT_Price>104</MT_Price>
+		<MT_Barcode>897381619217</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>22"</MT_ScreenSize>
+		<MT_PanelType>LED</MT_PanelType>
+		<MT_RefreshRate>60 Hz</MT_RefreshRate>
+		<MT_Resolution>1920x1080</MT_Resolution>
+		<MT_ConnectorInput>VGA, DVI</MT_ConnectorInput>
+		<MT_ResponseTime>5 ms</MT_ResponseTime>
+		<MFGR_ID>9</MFGR_ID>	
+	</MT>
+
+	<MT>
+		<MT_ID>2</MT_ID>
+		<MT_Name>BenQ GW2470ML</MT_Name>
+		<MT_Category>Monitor</MT_Category>
+		<MT_Price>149</MT_Price>
+		<MT_Barcode>897381619224</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>24"</MT_ScreenSize>
+		<MT_PanelType>LED</MT_PanelType>
+		<MT_RefreshRate>60 Hz</MT_RefreshRate>
+		<MT_Resolution>1920x1080</MT_Resolution>
+		<MT_ConnectorInput>DVI, HDMI</MT_ConnectorInput>
+		<MT_ResponseTime>4 ms</MT_ResponseTime>
+		<MFGR_ID>7</MFGR_ID>	
+	</MT>
+
+	<MT>
+		<MT_ID>3</MT_ID>
+		<MT_Name>Asus VS247H</MT_Name>
+		<MT_Category>Monitor</MT_Category>
+		<MT_Price>174</MT_Price>
+		<MT_Barcode>897381619231</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>24"</MT_ScreenSize>
+		<MT_PanelType>LED</MT_PanelType>
+		<MT_RefreshRate>60 Hz</MT_RefreshRate>
+		<MT_Resolution>1920x1080</MT_Resolution>
+		<MT_ConnectorInput>DVI, HDMI</MT_ConnectorInput>
+		<MT_ResponseTime>2 ms</MT_ResponseTime>
+		<MFGR_ID>2</MFGR_ID>	
+	</MT>
+
+	<MT>
+		<MT_ID>4</MT_ID>
+		<MT_Name>Acer K272HL</MT_Name>
+		<MT_Category>Monitor</MT_Category>
+		<MT_Price>209</MT_Price>
+		<MT_Barcode>897381619248</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>27"</MT_ScreenSize>
+		<MT_PanelType>LED</MT_PanelType>
+		<MT_RefreshRate>60 Hz</MT_RefreshRate>
+		<MT_Resolution>1920x1080</MT_Resolution>
+		<MT_ConnectorInput>VGA, DVI, HDMI</MT_ConnectorInput>
+		<MT_ResponseTime>4 ms</MT_ResponseTime>
+		<MFGR_ID>3</MFGR_ID>	
+	</MT>
+
+	<MT>
+		<MT_ID>5</MT_ID>
+		<MT_Name>Samsung LU28H7</MT_Name>
+		<MT_Category>Creative Monitor</MT_Category>
+		<MT_Price>499</MT_Price>
+		<MT_Barcode>897381619255</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>28"</MT_ScreenSize>
+		<MT_PanelType>LED</MT_PanelType>
+		<MT_RefreshRate>60 Hz</MT_RefreshRate>
+		<MT_Resolution>3840x2160</MT_Resolution>
+		<MT_ConnectorInput>HDMI</MT_ConnectorInput>
+		<MT_ResponseTime>1 ms</MT_ResponseTime>
+		<MFGR_ID>1</MFGR_ID>	
+	</MT>
+
+	<MT>
+		<MT_ID>6</MT_ID>
+		<MT_Name>Samsung LC27HG7</MT_Name>
+		<MT_Category>Gaming Monitor</MT_Category>
+		<MT_Price>749</MT_Price>
+		<MT_Barcode>897381619262</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>27"</MT_ScreenSize>
+		<MT_PanelType>VA</MT_PanelType>
+		<MT_RefreshRate>144 Hz</MT_RefreshRate>
+		<MT_Resolution>1920x1080</MT_Resolution>
+		<MT_ConnectorInput>HDMI</MT_ConnectorInput>
+		<MT_ResponseTime>1 ms</MT_ResponseTime>
+		<MFGR_ID>1</MFGR_ID>	
+	</MT>
+
+	<MT>
+		<MT_ID>7</MT_ID>
+		<MT_Name>Asus ROG PG279Q</MT_Name>
+		<MT_Category>Gaming Monitor</MT_Category>
+		<MT_Price>999</MT_Price>
+		<MT_Barcode>897381619279</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>27"</MT_ScreenSize>
+		<MT_PanelType>IPS</MT_PanelType>
+		<MT_RefreshRate>160 Hz</MT_RefreshRate>
+		<MT_Resolution>2560x1440</MT_Resolution>
+		<MT_ConnectorInput>DisplayPort</MT_ConnectorInput>
+		<MT_ResponseTime>1 ms</MT_ResponseTime>
+		<MFGR_ID>2</MFGR_ID>	
+	</MT>
+
+	<MT>
+		<MT_ID>8</MT_ID>
+		<MT_Name>Asus ROG PG278QR</MT_Name>
+		<MT_Category>Gaming Monitor</MT_Category>
+		<MT_Price>799</MT_Price>
+		<MT_Barcode>897381619286</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>27"</MT_ScreenSize>
+		<MT_PanelType>TN</MT_PanelType>
+		<MT_RefreshRate>144 Hz</MT_RefreshRate>
+		<MT_Resolution>2560x1440</MT_Resolution>
+		<MT_ConnectorInput>DisplayPort</MT_ConnectorInput>
+		<MT_ResponseTime>1 ms</MT_ResponseTime>
+		<MFGR_ID>2</MFGR_ID>	
+	</MT>
+
+	<MT>
+		<MT_ID>9</MT_ID>
+		<MT_Name>Acer Predator Z271</MT_Name>
+		<MT_Category>Gaming Monitor</MT_Category>
+		<MT_Price>649</MT_Price>
+		<MT_Barcode>897381619293</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>27"</MT_ScreenSize>
+		<MT_PanelType>LED</MT_PanelType>
+		<MT_RefreshRate>144 Hz</MT_RefreshRate>
+		<MT_Resolution>1920x1080</MT_Resolution>
+		<MT_ConnectorInput>HDMI</MT_ConnectorInput>
+		<MT_ResponseTime>1 ms</MT_ResponseTime>
+		<MFGR_ID>3</MFGR_ID>	
+	</MT>
+
+	<MT>
+		<MT_ID>10</MT_ID>
+		<MT_Name>Acer Predator XB321HK</MT_Name>
+		<MT_Category>Gaming Monitor</MT_Category>
+		<MT_Price>1399</MT_Price>
+		<MT_Barcode>819157997008</MT_Barcode>
+		<MT_StockLevel></MT_StockLevel>
+		<MT_ScreenSize>32"</MT_ScreenSize>
+		<MT_PanelType>LED</MT_PanelType>
+		<MT_RefreshRate>160 Hz</MT_RefreshRate>
+		<MT_Resolution>3840x2160</MT_Resolution>
+		<MT_ConnectorInput>DisplayPort</MT_ConnectorInput>
+		<MT_ResponseTime>1 ms</MT_ResponseTime>
+		<MFGR_ID>3</MFGR_ID>	
+	</MT>
+
+	<Store>
+		<Store_ID>1</Store_ID>
+		<Store_Region>North</Store_Region>
+		<Store_Name>Canada Computers NM</Store_Name>
+		<Store_Location>Newmarket CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Newmarket</Store_City>
+		<Store_StreetNumb>111</Store_StreetNumb>
+		<Store_StreetName>Davis Drive</Store_StreetName>
+		<Store_PostalCode>L3Y8X2</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+	<Store>
+		<Store_ID>2</Store_ID>
+		<Store_Region>North</Store_Region>
+		<Store_Name>Canada Computers BA</Store_Name>
+		<Store_Location>Barrie CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Barrie</Store_City>
+		<Store_StreetNumb>510</Store_StreetNumb>
+		<Store_StreetName>Bryne Drive</Store_StreetName>
+		<Store_PostalCode>L4N9G6</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+	<Store>
+		<Store_ID>3</Store_ID>
+		<Store_Region>North</Store_Region>
+		<Store_Name>Canada Computers RH</Store_Name>
+		<Store_Location>Richmond Hill CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Richmond Hill</Store_City>
+		<Store_StreetNumb>1070</Store_StreetNumb>
+		<Store_StreetName>Major Mackenzie Drive East</Store_StreetName>
+		<Store_PostalCode>L4S1P3</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+	<Store>
+		<Store_ID>4</Store_ID>
+		<Store_Region>North</Store_Region>
+		<Store_Name>Canada Computer MU</Store_Name>
+		<Store_Location>Markham Unionville CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Markham Unionville</Store_City>
+		<Store_StreetNumb>4038</Store_StreetNumb>
+		<Store_StreetName>Highway 7 East</Store_StreetName>
+		<Store_PostalCode>L3R2L5</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+	<Store>
+		<Store_ID>5</Store_ID>
+		<Store_Region>East</Store_Region>
+		<Store_Name>Canada Computers AX</Store_Name>
+		<Store_Location>Ajax CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Ajax</Store_City>
+		<Store_StreetNumb>15</Store_StreetNumb>
+		<Store_StreetName>Westney Road North</Store_StreetName>
+		<Store_PostalCode>L1T1P5</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+	<Store>
+		<Store_ID>6</Store_ID>
+		<Store_Region>East</Store_Region>
+		<Store_Name>Canada Computers WB</Store_Name>
+		<Store_Location>Whitby CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Whitby</Store_City>
+		<Store_StreetNumb>1624</Store_StreetNumb>
+		<Store_StreetName>Dundas Street East</Store_StreetName>
+		<Store_PostalCode>L1N2K8</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+	<Store>
+		<Store_ID>7</Store_ID>
+		<Store_Region>South</Store_Region>
+		<Store_Name>Canada Computers DT</Store_Name>
+		<Store_Location>Downtown Toronto CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Toronto</Store_City>
+		<Store_StreetNumb>366</Store_StreetNumb>
+		<Store_StreetName>College Street</Store_StreetName>
+		<Store_PostalCode>M5T1S6</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+	<Store>
+		<Store_ID>8</Store_ID>
+		<Store_Region>South</Store_Region>
+		<Store_Name>Canada Computers KN</Store_Name>
+		<Store_Location>Toronto Kennedy CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Toronto</Store_City>
+		<Store_StreetNumb>1306</Store_StreetNumb>
+		<Store_StreetName>Kennedy Road</Store_StreetName>
+		<Store_PostalCode>M1P2L5</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+	<Store>
+		<Store_ID>9</Store_ID>
+		<Store_Region>West</Store_Region>
+		<Store_Name>Canada Computers HM</Store_Name>
+		<Store_Location>Hamilton CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Hamilton</Store_City>
+		<Store_StreetNumb>50</Store_StreetNumb>
+		<Store_StreetName>Dundurn Street</Store_StreetName>
+		<Store_PostalCode>L8P4W3</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+	<Store>
+		<Store_ID>10</Store_ID>
+		<Store_Region>West</Store_Region>
+		<Store_Name>Canada Computers WL</Store_Name>
+		<Store_Location>Waterloo CC</Store_Location>
+		<Store_Country>Canada</Store_Country>
+		<Store_City>Kitchener</Store_City>
+		<Store_StreetNumb>230</Store_StreetNumb>
+		<Store_StreetName>Weber Street North</Store_StreetName>
+		<Store_PostalCode>N2J3H4</Store_PostalCode>
+		<Store_Stock></Store_Stock>
+	</Store>
+
+</MFGRData5>

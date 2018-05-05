@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" >
+
+	<xs:element name="MFGRData5" type="MFGRType">
+
+		<xs:key name="MFGRKey">
+			<xs:selector xpath="MFGR"/>
+			<xs:field xpath="MFGR_ID"/>
+		</xs:key>
+
+		<xs:key name="LPKey">
+			<xs:selector xpath="LP"/>
+			<xs:field xpath="LP_ID"/>
+		</xs:key>
+
+		<xs:key name="DTKey">
+			<xs:selector xpath="DT"/>
+			<xs:field xpath="DT_ID"/>
+		</xs:key>
+
+		<xs:key name="MTKey">
+			<xs:selector xpath="MT"/>
+			<xs:field xpath="MT_ID"/>
+		</xs:key>
+
+		<xs:key name="StoreKey">
+			<xs:selector xpath="Store"/>
+			<xs:field xpath="Store_ID"/>
+		</xs:key>
+
+		<xs:keyref name="LPFKey" refer="MFGRKey">
+			<xs:selector xpath="LP"/>
+			<xs:field xpath="MFGR_ID"/>
+		</xs:keyref>
+
+		<xs:keyref name="DTFKey" refer="MFGRKey">
+			<xs:selector xpath="DT"/>
+			<xs:field xpath="MFGR_ID"/>
+		</xs:keyref>
+
+		<xs:keyref name="MTFKey" refer="MFGRKey">
+			<xs:selector xpath="MT"/>
+			<xs:field xpath="MFGR_ID"/>
+		</xs:keyref>
+
+	</xs:element>
+
+	<xs:complexType name="MFGRType">
+		<xs:sequence>
+			<xs:element ref="MFGR" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="LP" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="DT" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="MT" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="Store" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="MFGR">
+	 	<xs:complexType>  
+			<xs:sequence>  
+				<xs:element name="MFGR_ID" type="xs:string" />
+				<xs:element name="MFGR_Name" type="xs:string" />
+				<xs:element name="MFGR_Country" type="xs:string" />
+				<xs:element name="MFGR_State" type="xs:string" />
+				<xs:element name="MFGR_City" type="xs:string" />
+				<xs:element name="MFGR_StreetNumb" type="xs:string" />
+				<xs:element name="MFGR_StreetName" type="xs:string" />
+				<xs:element name="MFGR_PostalCode" type="xs:string" />
+				<xs:element name="MFGR_PhoneNumb" type="xs:string" />
+				<xs:element name="MFGR_EMail" type="xs:string" />
+			</xs:sequence>  
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="LP">
+	 	<xs:complexType>  
+			<xs:sequence>  
+				<xs:element name="LP_ID" type="xs:string" />
+				<xs:element name="LP_Name" type="xs:string" />
+				<xs:element name="LP_Category" type="xs:string" />
+				<xs:element name="LP_Price" type="xs:string" />
+				<xs:element name="LP_Barcode" type="xs:string" />
+				<xs:element name="LP_StockLevel" type="xs:string" />
+				<xs:element name="LP_CPU" type="xs:string" />
+				<xs:element name="LP_GPU" type="xs:string" />
+				<xs:element name="LP_ScreenSize" type="xs:string" />
+				<xs:element name="LP_RAM" type="xs:string" />
+				<xs:element name="LP_OS" type="xs:string" />
+				<xs:element name="LP_Weight" type="xs:string" />
+				<xs:element name="LP_Storage" type="xs:string" />
+				<xs:element name="MFGR_ID" type="xs:string" />
+			</xs:sequence>  
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="DT">
+	 	<xs:complexType>  
+			<xs:sequence>  
+				<xs:element name="DT_ID" type="xs:string" />
+				<xs:element name="DT_Name" type="xs:string" />
+				<xs:element name="DT_Category" type="xs:string" />
+				<xs:element name="DT_Price" type="xs:string" />
+				<xs:element name="DT_Barcode" type="xs:string" />
+				<xs:element name="DT_StockLevel" type="xs:string" />
+				<xs:element name="DT_CPU" type="xs:string" />
+				<xs:element name="DT_GPU" type="xs:string" />
+				<xs:element name="DT_MB" type="xs:string" />
+				<xs:element name="DT_Case" type="xs:string" />
+				<xs:element name="DT_PSU" type="xs:string" />
+				<xs:element name="DT_RAM" type="xs:string" />
+				<xs:element name="DT_OS" type="xs:string" />
+				<xs:element name="DT_Storage" type="xs:string" />
+				<xs:element name="MFGR_ID" type="xs:string" />
+			</xs:sequence>  
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="MT">
+	 	<xs:complexType>  
+			<xs:sequence>  
+				<xs:element name="MT_ID" type="xs:string" />
+				<xs:element name="MT_Name" type="xs:string" />
+				<xs:element name="MT_Category" type="xs:string" />
+				<xs:element name="MT_Price" type="xs:string" />
+				<xs:element name="MT_Barcode" type="xs:string" />
+				<xs:element name="MT_StockLevel" type="xs:string" />
+				<xs:element name="MT_ScreenSize" type="xs:string" />
+				<xs:element name="MT_PanelType" type="xs:string" />
+				<xs:element name="MT_RefreshRate" type="xs:string" />
+				<xs:element name="MT_Resolution" type="xs:string" />
+				<xs:element name="MT_ConnectorInput" type="xs:string" />
+				<xs:element name="MT_ResponseTime" type="xs:string" />
+				<xs:element name="MFGR_ID" type="xs:string" />
+			</xs:sequence>  
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Store">
+	 	<xs:complexType>  
+			<xs:sequence>  
+				<xs:element name="Store_ID" type="xs:string" />
+				<xs:element name="Store_Region" type="xs:string" />
+				<xs:element name="Store_Name" type="xs:string" />
+				<xs:element name="Store_Location" type="xs:string" />
+				<xs:element name="Store_Country" type="xs:string" />
+				<xs:element name="Store_City" type="xs:string" />
+				<xs:element name="Store_StreetNumb" type="xs:string" />
+				<xs:element name="Store_StreetName" type="xs:string" />
+				<xs:element name="Store_PostalCode" type="xs:string" />
+				<xs:element name="Store_Stock" type="xs:string" />
+			</xs:sequence>  
+		</xs:complexType>
+	</xs:element>
+
+	
+</xs:schema>

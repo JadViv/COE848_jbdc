@@ -1,0 +1,129 @@
+//Query 1//
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
+<html> 
+<body>
+  <h2>Manufacture In USA</h2>
+  <table border="1">
+    <tr bgcolor="#9acd32">
+     <th style="text-align:left">Manufacture</th>
+     <th style="text-align:left">Number</th>       
+    </tr>
+    <xsl:for-each select="MFGRData5/MFGR[MFGR_Country='USA']">
+    <tr>
+      <td><xsl:value-of select="MFGR_Name"/></td>                
+      <td><xsl:value-of select="MFGR_PhoneNumb"/></td>
+    </tr>
+    </xsl:for-each>
+  </table>
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>
+
+
+//Query 2//
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
+<html> 
+<body>
+  <h2>Lenovo Manufacturer Address</h2>
+  <table border="1">
+    <tr bgcolor="#9acd32">
+     <th style="text-align:left">Manufacture</th>
+     <th style="text-align:left">Country</th>      
+     <th style="text-align:left">City</th>     
+     <th style="text-align:left">Street Number</th>  
+     <th style="text-align:left">Street Name</th>  
+     <th style="text-align:left">Postal Code</th>  
+    </tr>
+    <xsl:for-each select="MFGRData5/MFGR[MFGR_Name='Lenovo']">
+    <tr>
+      <td><xsl:value-of select="MFGR_Name"/></td>                
+      <td><xsl:value-of select="MFGR_Country"/></td>
+      <td><xsl:value-of select="MFGR_City"/></td>
+      <td><xsl:value-of select="MFGR_StreetNumb"/></td>
+      <td><xsl:value-of select="MFGR_StreetName"/></td>
+      <td><xsl:value-of select="MFGR_PostalCode"/></td>
+    </tr>
+    </xsl:for-each>
+  </table>
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>
+
+//Query 3//
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
+<html> 
+<body>
+  <h2>Gaming Laptops with 15.6" Screen Sizes</h2>
+  <table border="1">
+    <tr bgcolor="#9acd32">
+     <th style="text-align:left">Laptop Name</th>    
+    </tr>
+    <xsl:for-each select="MFGRData5/LP[LP_ScreenSize='15.6']">
+    <tr>
+      <td><xsl:value-of select="LP_Name"/></td>                
+    </tr>
+    </xsl:for-each>
+  </table>
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>
+
+
+
+//Query 4//
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
+<html> 
+<body>
+  <h2>Postal Code of Markham Unionville Store</h2>
+  <table border="1">
+    <tr bgcolor="#9acd32">
+     <th style="text-align:left">Postal Code</th>    
+    </tr>
+    <xsl:for-each select="MFGRData5/Store[Store_Location='Markham Unionville CC']">
+    <tr>
+      <td><xsl:value-of select="Store_PostalCode"/></td>                
+    </tr>
+    </xsl:for-each>
+  </table>
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>
+
+
+//Query 5//
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
+<html> 
+<body>
+  <h2>Gaming Laptop from MSI</h2>
+  <table border="1">
+    <tr bgcolor="#9acd32">
+      <th style="text-align:left">Gaming Laptop Name</th>
+    </tr>
+    <xsl:for-each select="MFGRData5/LP">
+    <tr>
+      <xsl:variable name ="id" select="MFGR_ID"/>
+      <xsl:variable name="MFGR" select= "//MFGRData5/MFGR[MFGR_ID=$id]"/>
+      <xsl:if test = "$MFGR/MFGR_Name='MSI'">
+      <td><xsl:value-of select="LP_Name"/></td>
+    </xsl:if>
+  </tr>
+  </xsl:for-each>
+  </table>
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>
+
